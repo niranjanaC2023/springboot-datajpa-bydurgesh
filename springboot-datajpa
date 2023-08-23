@@ -18,3 +18,25 @@
 	<artifactId>lombok</artifactId>
 	<optional>true</optional>
 </dependency>
+
+********DataJpa with Default Method*******
+->StudentControllerWithDefaultFinderMethod.java
+
+******Only Image File Upload into a Static Folder Location********
+->File stored in user choice directory.
+->OnlyImageFileUploadIntoaStaticFolderController.java and OnlyImageFileUploadIntoaStaticFolderController.java
+
+******Only Image File Upload into a Dynamic Folder Location********
+->File stored in dynamically.
+->FileUploadHelperIntoDynamicDirectory.java and OnlyImageFileUploadIntoaDynamicFolderController.java
+
+****Thymeleaf******
+->Add Thymeleaf plugin in your sts/eclipse
+->then add thymeleaf dependencies
+<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-thymeleaf</artifactId>
+		</dependency>
+
+
+
